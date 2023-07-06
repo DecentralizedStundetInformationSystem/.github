@@ -1,6 +1,6 @@
 # Decentralized Student Information System
 
-Welcome to the Decentralized Student Information System organization! This organization serves as the central hub for my project, which uses blockchain technology to manage and access student information.
+This organization serves as the central hub for my project, which uses blockchain technology to manage and access student information.
 
 ## What is DSIS?
 The Decentralized Student Information System (DSIS) is a blockchain-based application for student information management. By leveraging the power of decentralized technology, DSIS ensures transparent and secure storage of student data, while providing functionalities such as enrollment, term management, course evaluation, and attendance tracking. 
