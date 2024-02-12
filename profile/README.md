@@ -13,7 +13,7 @@ This organization contains the following repositories:
 
 - [Server](https://github.com/DecentralizedStundetInformationSystem/DSIS_Server): This repository houses the server implementation responsible for handling blockchain operations. It ensures secure and transparent management of student data through decentralized technology.
 
-- [Desktop Application](DecentralizedStundetInformationSystem/DSIS_Admin): The desktop application provides a user-friendly interface for administrators and staff members to efficiently manage student information. Student information that will be written on the blockchain is sent through this application.
+- [Desktop Application](https://github.com/DecentralizedStundetInformationSystem/DSIS_Admin): The desktop application provides a user-friendly interface for administrators and staff members to efficiently manage student information. Student information that will be written on the blockchain is sent through this application.
 
 - [Mobile Application](https://github.com/DecentralizedStundetInformationSystem/DSIS_DApp): The mobile application is designed specifically for students, allowing them to access their personal information securely from their mobile devices. It offers features like grades, attendance tracking, and other relevant information.
 
